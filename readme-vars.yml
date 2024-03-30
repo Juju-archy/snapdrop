@@ -60,7 +60,7 @@ optional_block_1_items: ""
 # application setup block
 app_setup_block_enabled: true
 app_setup_block: |
-  Webui is accessible at http://SERVERIP:PORT
+  Webui is accessible at https://app-a469b449-0abb-401e-9f32-6719e3ad64a1.cleverapps.io:8080
 
 # changelog
 changelogs:
