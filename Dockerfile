@@ -44,5 +44,5 @@ RUN \
 COPY root/ /
 
 # ports and volumes
-EXPOSE 8080 
+EXPOSE 80 8080 
 VOLUME /config
