@@ -44,5 +44,5 @@ RUN \
 COPY root/ /
 
 # ports and volumes
-EXPOSE 80 443
+EXPOSE 8080 443
 VOLUME /config
