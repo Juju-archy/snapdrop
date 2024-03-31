@@ -1,2 +1,2 @@
-FROM lscr.io/linuxserver/snapdrop
+FROM snapdrop
  
