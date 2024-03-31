@@ -1,1 +1,1 @@
-FROM lscr.io/linuxserver/snapdrop:latest 
+FROM linuxserver/snapdrop:version-a96dde25
